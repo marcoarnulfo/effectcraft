@@ -1292,6 +1292,8 @@ mod tests_quick_offset;
 #[cfg(test)]
 mod tests_rig3d;
 #[cfg(test)]
+mod tests_scale_comp;
+#[cfg(test)]
 mod tests_sequence;
 #[cfg(test)]
 mod tests_settings;
